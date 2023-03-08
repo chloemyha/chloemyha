@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chloe Huynh</h1>
 <h3 align="center">A passionate full-stack developer pivoting from healthcare .</h3>
 
-- 🔭 I’m currently working on [Recipe App](https://github.com/lift-off-lc/recipe-app.git)
-
-- 🌱 I’m currently learning **Swift, React Native , Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chloemyha](https://github.com/chloemyha)
 
