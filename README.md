@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chloe Huynh</h1>
-<h3 align="center">A passionate full-stack developer pivoting from healthcare .</h3>
+<h3 align="center">A passionate full-stack developer.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/chloemyha](https://github.com/chloemyha)
